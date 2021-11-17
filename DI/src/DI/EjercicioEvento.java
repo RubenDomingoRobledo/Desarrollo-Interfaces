@@ -17,7 +17,7 @@ class Pulsacion extends JFrame {
 		JPanel pnl1= new JPanel();
 		JButton btn1= new JButton();
 		JTextField txtfield1= new JTextField (String.valueOf(0),5);
-		
+		 
 		setTitle("Contar Clicks en boton");
 		setSize(500,150);
 		setLocationRelativeTo(null);
